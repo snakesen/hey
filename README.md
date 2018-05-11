@@ -122,6 +122,4 @@ ThinkPHP遵循Apache2开源协议发布，并提供免费使用。
 
 版权所有Copyright © 2006-2018 by ThinkPHP (http://thinkphp.cn)
 
-
-的的的
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
